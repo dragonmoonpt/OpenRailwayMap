@@ -355,7 +355,7 @@ msgid "Crane"
 msgstr "Grua"
 
 msgid "Track scale"
-msgstr ""
+msgstr "Linha de escala"
 
 msgid "Carrier truck pit"
 msgstr ""
@@ -514,7 +514,7 @@ msgid "Electrification under construction"
 msgstr "Electrificação em construção"
 
 msgid "contact line"
-msgstr ""
+msgstr "linha de contacto"
 
 msgid "3rd rail"
 msgstr "3ª linha"
@@ -923,4 +923,4 @@ msgid "700mm"
 msgstr "700mm"
 
 msgid "Monorail"
-msgstr ""
+msgstr "Monocarril"
